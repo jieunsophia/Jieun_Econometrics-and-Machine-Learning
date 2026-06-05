@@ -3,6 +3,6 @@
 --------------------------------------------------------------
 (Chronological order)
 1. [Testing-EndoW-in-SDPD] Testing the Endogeneity of a Spatial Weight Matrix in the Weak-Tied Spatial Dynamic Panel Data Model (Sole-authored), *Econometric Reviews*, https://www.tandfonline.com/doi/full/10.1080/07474938.2024.2427600
-2. [IMU] Informativeness under Model Uncertainty: Shadow Prices and Ridge Penalties (with Esfandiar Maasoumi) *Submitted.* Manuscript [arXiv]: TBD
+2. [IMU] Informativeness under Model Uncertainty: Shadow Prices and Ridge Penalties (with Esfandiar Maasoumi) *Submitted.* Manuscript [arXiv]: https://arxiv.org/abs/2604.15571
 3. [CRPD-Hyperpara] Cressie-Read Power Divergence for Moment-Based Estimation: Hyperparameter and Finite-Sample Behavior (with Anil Bera) *Submitted.* Manuscript [arXiv]: https://arxiv.org/abs/2603.22599
 4. [Network-Multipliers-in-Gravity] Network Multipliers in Gravity Models (with Hanbat Jeong)
